@@ -1,0 +1,10 @@
+= Ajax file upload with Prototype
+
+Project was deleted because former of ajax_upload plugin for jQuery has started development and released version 1.0 of its ajax_upload plugin for Prototype.
+
+Please, refer to Andris Valums' project page in order to get latest version of this plugin.
+
+== Project page
+
+* Andris Valums' home page - http://valums.com/
+* Ajax file upload with prototype project page - http://valums.com/projects/ajax-upload/
